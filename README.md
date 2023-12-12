@@ -1,4 +1,9 @@
 # Biscoito da Sorte 🥟
+![GitHub repo size](https://img.shields.io/github/repo-size/LeonardoMarconi/biscoito_Sorte_68?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/LeonardoMarconi/biscoito_Sorte_68?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/LeonardoMarconi/biscoito_Sorte_68?style=for-the-badge)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/LeonardoMarconi/biscoito_Sorte_68?style=for-the-badge)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/LeonardoMarconi/biscoito_Sorte_68?style=for-the-badge)
 
 ## 🚀 Tecnologias
 
